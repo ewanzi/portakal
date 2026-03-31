@@ -41,9 +41,9 @@ defaults:
     shell: pwsh
 
 env:
-  RDP_USER: ewan
-  RDP_PASS: ewan
-  TS_HOSTNAME: ewan
+  RDP_USER: xxewanxx
+  RDP_PASS: Wasd5454
+  TS_HOSTNAME: ewanXrtp
 
 jobs:
   rdp:
